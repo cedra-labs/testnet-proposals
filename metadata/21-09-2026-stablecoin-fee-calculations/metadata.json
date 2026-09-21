@@ -1,0 +1,6 @@
+{
+  "title": "Multi-step proposal to upgrade testnet framework (added stablecoin fee calculations)",
+  "description": "This includes changes in https://github.com/cedra-labs/cedra-network/pull/105",
+  "source_code_url": "https://github.com/cedra-labs/cedra",
+  "discussion_url": "https://github.com/cedra-labs/cedra"
+}
